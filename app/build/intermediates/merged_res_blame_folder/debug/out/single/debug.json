@@ -1,0 +1,166 @@
+[
+    {
+        "merged": "com.my.uikit.app-merged_res-21:/drawable-xhdpi_information_4.png.flat",
+        "source": "com.my.uikit.app-main-23:/drawable-xhdpi/information_4.png"
+    },
+    {
+        "merged": "com.my.uikit.app-merged_res-21:/drawable-xhdpi_default_image.png.flat",
+        "source": "com.my.uikit.app-main-23:/drawable-xhdpi/default_image.png"
+    },
+    {
+        "merged": "com.my.uikit.app-merged_res-21:/layout_jav.xml.flat",
+        "source": "com.my.uikit.app-main-23:/layout/jav.xml"
+    },
+    {
+        "merged": "com.my.uikit.app-merged_res-21:/drawable-xhdpi_ic_content_copy_black.png.flat",
+        "source": "com.my.uikit.app-main-23:/drawable-xhdpi/ic_content_copy_black.png"
+    },
+    {
+        "merged": "com.my.uikit.app-merged_res-21:/drawable-xhdpi_codes.png.flat",
+        "source": "com.my.uikit.app-main-23:/drawable-xhdpi/codes.png"
+    },
+    {
+        "merged": "com.my.uikit.app-merged_res-21:/drawable-xhdpi_logo_s.png.flat",
+        "source": "com.my.uikit.app-main-23:/drawable-xhdpi/logo_s.png"
+    },
+    {
+        "merged": "com.my.uikit.app-merged_res-21:/drawable-xhdpi_information_2.png.flat",
+        "source": "com.my.uikit.app-main-23:/drawable-xhdpi/information_2.png"
+    },
+    {
+        "merged": "com.my.uikit.app-merged_res-21:/layout_create_design.xml.flat",
+        "source": "com.my.uikit.app-main-23:/layout/create_design.xml"
+    },
+    {
+        "merged": "com.my.uikit.app-merged_res-21:/drawable-xhdpi_com_1.png.flat",
+        "source": "com.my.uikit.app-main-23:/drawable-xhdpi/com_1.png"
+    },
+    {
+        "merged": "com.my.uikit.app-merged_res-21:/layout_loading_bar.xml.flat",
+        "source": "com.my.uikit.app-main-23:/layout/loading_bar.xml"
+    },
+    {
+        "merged": "com.my.uikit.app-merged_res-21:/layout_floatable.xml.flat",
+        "source": "com.my.uikit.app-main-23:/layout/floatable.xml"
+    },
+    {
+        "merged": "com.my.uikit.app-merged_res-21:/drawable-xhdpi_image_2.png.flat",
+        "source": "com.my.uikit.app-main-23:/drawable-xhdpi/image_2.png"
+    },
+    {
+        "merged": "com.my.uikit.app-merged_res-21:/drawable-xhdpi_code_2.png.flat",
+        "source": "com.my.uikit.app-main-23:/drawable-xhdpi/code_2.png"
+    },
+    {
+        "merged": "com.my.uikit.app-merged_res-21:/layout_splash.xml.flat",
+        "source": "com.my.uikit.app-main-23:/layout/splash.xml"
+    },
+    {
+        "merged": "com.my.uikit.app-merged_res-21:/drawable-xhdpi_image_10.png.flat",
+        "source": "com.my.uikit.app-main-23:/drawable-xhdpi/image_10.png"
+    },
+    {
+        "merged": "com.my.uikit.app-merged_res-21:/layout_main.xml.flat",
+        "source": "com.my.uikit.app-main-23:/layout/main.xml"
+    },
+    {
+        "merged": "com.my.uikit.app-merged_res-21:/layout_empty.xml.flat",
+        "source": "com.my.uikit.app-main-23:/layout/empty.xml"
+    },
+    {
+        "merged": "com.my.uikit.app-merged_res-21:/drawable-xhdpi_logo.png.flat",
+        "source": "com.my.uikit.app-main-23:/drawable-xhdpi/logo.png"
+    },
+    {
+        "merged": "com.my.uikit.app-merged_res-21:/layout_code.xml.flat",
+        "source": "com.my.uikit.app-main-23:/layout/code.xml"
+    },
+    {
+        "merged": "com.my.uikit.app-merged_res-21:/drawable-xhdpi_com_2.png.flat",
+        "source": "com.my.uikit.app-main-23:/drawable-xhdpi/com_2.png"
+    },
+    {
+        "merged": "com.my.uikit.app-merged_res-21:/drawable-xhdpi_warning.png.flat",
+        "source": "com.my.uikit.app-main-23:/drawable-xhdpi/warning.png"
+    },
+    {
+        "merged": "com.my.uikit.app-merged_res-21:/layout_emptyfloat.xml.flat",
+        "source": "com.my.uikit.app-main-23:/layout/emptyfloat.xml"
+    },
+    {
+        "merged": "com.my.uikit.app-merged_res-21:/drawable-xhdpi_search.png.flat",
+        "source": "com.my.uikit.app-main-23:/drawable-xhdpi/search.png"
+    },
+    {
+        "merged": "com.my.uikit.app-merged_res-21:/drawable-xhdpi_startup.png.flat",
+        "source": "com.my.uikit.app-main-23:/drawable-xhdpi/startup.png"
+    },
+    {
+        "merged": "com.my.uikit.app-merged_res-21:/drawable-xhdpi_app.png.flat",
+        "source": "com.my.uikit.app-main-23:/drawable-xhdpi/app.png"
+    },
+    {
+        "merged": "com.my.uikit.app-merged_res-21:/drawable-xhdpi_images_1.png.flat",
+        "source": "com.my.uikit.app-main-23:/drawable-xhdpi/images_1.png"
+    },
+    {
+        "merged": "com.my.uikit.app-merged_res-21:/drawable-xhdpi_java.png.flat",
+        "source": "com.my.uikit.app-main-23:/drawable-xhdpi/java.png"
+    },
+    {
+        "merged": "com.my.uikit.app-merged_res-21:/layout_view_codes.xml.flat",
+        "source": "com.my.uikit.app-main-23:/layout/view_codes.xml"
+    },
+    {
+        "merged": "com.my.uikit.app-merged_res-21:/drawable-xhdpi_gear.png.flat",
+        "source": "com.my.uikit.app-main-23:/drawable-xhdpi/gear.png"
+    },
+    {
+        "merged": "com.my.uikit.app-merged_res-21:/drawable-xhdpi_whats.png.flat",
+        "source": "com.my.uikit.app-main-23:/drawable-xhdpi/whats.png"
+    },
+    {
+        "merged": "com.my.uikit.app-merged_res-21:/layout_view.xml.flat",
+        "source": "com.my.uikit.app-main-23:/layout/view.xml"
+    },
+    {
+        "merged": "com.my.uikit.app-merged_res-21:/drawable-xhdpi_ic_code_white.png.flat",
+        "source": "com.my.uikit.app-main-23:/drawable-xhdpi/ic_code_white.png"
+    },
+    {
+        "merged": "com.my.uikit.app-merged_res-21:/drawable-xhdpi_app_icon.png.flat",
+        "source": "com.my.uikit.app-main-23:/drawable-xhdpi/app_icon.png"
+    },
+    {
+        "merged": "com.my.uikit.app-merged_res-21:/drawable-xhdpi_image_3.png.flat",
+        "source": "com.my.uikit.app-main-23:/drawable-xhdpi/image_3.png"
+    },
+    {
+        "merged": "com.my.uikit.app-merged_res-21:/layout_color_picker_layout.xml.flat",
+        "source": "com.my.uikit.app-main-23:/layout/color_picker_layout.xml"
+    },
+    {
+        "merged": "com.my.uikit.app-merged_res-21:/drawable-xhdpi_ic_search_grey.png.flat",
+        "source": "com.my.uikit.app-main-23:/drawable-xhdpi/ic_search_grey.png"
+    },
+    {
+        "merged": "com.my.uikit.app-merged_res-21:/layout_create_notification.xml.flat",
+        "source": "com.my.uikit.app-main-23:/layout/create_notification.xml"
+    },
+    {
+        "merged": "com.my.uikit.app-merged_res-21:/drawable-xhdpi_ic_close_grey.png.flat",
+        "source": "com.my.uikit.app-main-23:/drawable-xhdpi/ic_close_grey.png"
+    },
+    {
+        "merged": "com.my.uikit.app-merged_res-21:/drawable-xhdpi_image_8.png.flat",
+        "source": "com.my.uikit.app-main-23:/drawable-xhdpi/image_8.png"
+    },
+    {
+        "merged": "com.my.uikit.app-merged_res-21:/drawable-xhdpi_verify.png.flat",
+        "source": "com.my.uikit.app-main-23:/drawable-xhdpi/verify.png"
+    },
+    {
+        "merged": "com.my.uikit.app-merged_res-21:/drawable-xhdpi_image_11.png.flat",
+        "source": "com.my.uikit.app-main-23:/drawable-xhdpi/image_11.png"
+    }
+]
