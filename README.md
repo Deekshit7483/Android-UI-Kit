@@ -76,9 +76,7 @@ We welcome contributions from the community to improve and expand the Android UI
 This project is licensed under the [MIT License](LICENSE), which means you are free to use, modify, and distribute the code for both commercial and non-commercial purposes. However, we kindly request that you give credit to the original authors and retain the license information in your project.
 ## Acknowledgments
 We would like to thank all the contributors and supporters who have helped make this project possible. Your contributions are invaluable in advancing the Android development community.
-## Feedback
 
-If you have any feedback, please reach out to us at deekshithhr3729@gmail.com
 
 ## Contact
 If you have any questions or inquiries about the Android UI Kit project, feel free to contact us at [deekshithhr3729@gmail.com](mailto:deekshithhr3729@gmail.com). We'd love to hear from you!
